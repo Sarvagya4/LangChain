@@ -21,6 +21,11 @@ not supporting on local need to use machine with 16gb ram
 
 3)chromadb. This is our vector Database. ChromaDB is easy to use and open source, maybe the most used Vector Database used to store embeddings.
 
+4)CharacterTextSplitter: we will use it to group the information contained in different blocks.
+
+5)HuggingFaceEmbeddings: it will create the embeddings in the format that we will store in the database.
+
+
 
 #PromptTemplate: provide the functionality to create prompts with parameters.
 
