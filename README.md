@@ -16,7 +16,7 @@ not supporting on local need to use machine with 16gb ram
 
 
 ef
-
+dd
 1)langchain. The revolutionary framework to build apps using large language models.
 
 2)sentence_transformers. necesary to create the embeddings we are going to store in the vector database.
