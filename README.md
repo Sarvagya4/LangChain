@@ -13,7 +13,7 @@ not supporting on local need to use machine with 16gb ram
 f
 
 
-ef
+
 
 1)langchain. The revolutionary framework to build apps using large language models.
 
